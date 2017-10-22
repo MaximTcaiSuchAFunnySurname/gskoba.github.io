@@ -1,4 +1,6 @@
 html {
     background: url(./img/himg2.gif) no-repeat center center fixed;
     background-color: #fb83fa;
+    display: block;
+    margin: 0 auto;
 }

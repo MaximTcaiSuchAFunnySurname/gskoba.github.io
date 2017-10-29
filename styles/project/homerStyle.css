@@ -1,11 +1,7 @@
 .Homer {
-    background: url(./img/himg2.gif) no-repeat center center fixed;
-    margin: 0 auto;
+    background: url(../../img/himg2.gif);
     width: 400px;
     height: 300px;
+    margin: 0 auto;
 }
 
-html{
-    background-color: #fb83fa;
-    display: block;
-}

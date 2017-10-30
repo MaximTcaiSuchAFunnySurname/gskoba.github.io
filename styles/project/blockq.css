@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Roboto:400,700);
 .blockq{
     position: relative;
     padding: 1.5em;
@@ -5,5 +6,32 @@
     width: 520px;
     height: 80px;
     background-color: yellow;
-    border-radius: 30px ;
+    border-radius: 30px;
+    border: 3px solid #9f9922;
+    box-shadow: -5px 5px 0 black;
+}
+
+.cicle{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    background: url(../../img/dunatico.png);
+    border-radius: 48px/48px;
+    top: -1em;
+    right: -1em;
+}
+.Homertext{
+    font-family: "Roboto", sans-serif;
+    text-align: left;
+    margin: 20px;
+    display: block;
+    font-size: 20px;
+}
+
+.fromHomer{
+    font-family: "Roboto", sans-serif;
+    text-align: right;
+    margin: 20px;
+    display: block;
+    font-size: 12px;
 }

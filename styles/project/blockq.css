@@ -1,0 +1,9 @@
+.blockq{
+    position: relative;
+    padding: 1.5em;
+    margin: 10px auto 1em;
+    width: 520px;
+    height: 80px;
+    background-color: yellow;
+    border-radius: 30px ;
+}

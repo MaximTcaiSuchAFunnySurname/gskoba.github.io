@@ -31,7 +31,8 @@
 .fromHomer{
     font-family: "Roboto", sans-serif;
     text-align: right;
-    margin: 20px;
+    margin:  20px;
     display: block;
-    font-size: 12px;
+    font-size: 16px;
+    font-weight: 500;
 }

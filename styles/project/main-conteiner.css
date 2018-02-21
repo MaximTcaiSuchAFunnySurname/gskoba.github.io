@@ -1,3 +1,40 @@
 .main-conteiner{
     margin: 100px;
 }
+.logo{
+  width:500px;
+  height:500px;
+  padding: 100px;
+}
+
+#ok-logo-head
+{
+ width: 49px;
+ height: 49px;
+ border: 29px solid orange;
+ border-radius: 100%;
+}
+#ok-logo-body{
+  margin: 10px 0 0 0;
+  width:112px;
+  height:38px;
+  background-color: orange; 
+  border-radius: 40px;
+}
+
+#ok-logo-foot1{
+  float:left;
+  width:82px;
+  height:38px;
+  background-color: orange; 
+  border-radius: 40px;
+  transform: rotate(-45deg);
+}
+#ok-logo-foot2{
+  margin-left:28px;
+  width:82px;
+  height:38px;
+  background-color: orange; 
+  border-radius: 40px;
+  transform: rotate(45deg);
+}
